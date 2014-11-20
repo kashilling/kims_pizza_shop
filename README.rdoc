@@ -1,4 +1,4 @@
-== README
+== I'm into Kims files and messing them up.  Naw, just kidding.  Learning git and git hub.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
